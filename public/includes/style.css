@@ -1,6 +1,9 @@
 body {
-    background: url("public/includes/FONDO.jpg") no-repeat center center fixed;
+    background-image: url("FONDO.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
+    background-attachment: fixed;
     color: #dddddd;
     margin: 0;
     padding: 20px;
