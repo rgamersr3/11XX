@@ -3,6 +3,7 @@ CACHE MANIFEST
 CACHE:
 index.html
 includes/cat.jpg
+includes/FONDO.jpg
 includes/script.js
 includes/style.css
 src/payload.bin
