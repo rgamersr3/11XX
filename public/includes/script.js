@@ -77,7 +77,7 @@ function displayCacheProgress() {
     }, 1000);
     setTimeout(function () {
         // location.reload();
-        document.title = "CSSFontFace exploit";
+        document.title = "R-GAMER'S EXPLOIT 11.02";
     }, 3000);
 }
 
